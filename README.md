@@ -1,0 +1,20 @@
+# G2B6_HTML-CSS_GradedProject1
+
+Problem Statement:
+A Pharmacy shop who has millions of customers are in need of creating a website for their products. As they have hundreds of offline orders coming in every day and it is becoming difficult to keep track of it, your organization has taken up the project. The pharmacy also has tie up with various Diagnostic centers where the pharmacy will take samples from the patients at their doorstep and analyses in the lab. The report will be sent via mail and a hard copy if requested. And your team has asked you to develop a Homepage for the products and the Lab Test form. 
+The requirements of Homepage are as follows.
+  1. Create a Header (“Pharmacy”) and Footer(“@copyright. Only for demonstration purposes”). Make Sure you align them to the center of the screen.
+  2. Create a Horizontal Navigation Bar after Header with required tags to link. When hovering on any of the links, make sure the background color changes accordingly. The tag names are as Follows.
+      a. Home
+      b. Our Medicines
+          i. When Hovered on this, show a dropdown list of links for Fever, Muscle Pains, (Cold & Cough)
+      c. Health Care
+          i. When Hovered on this, show a dropdown list of links for Baby Care, Skin Care, Home Care, Personal Care and Pet Care
+      d. Lab Test
+          i. When Clicked on Lab Test, Open a form to book the slot.
+      e. When the web page is scrolled, make sure that the navigation bar is still seen on the top of the web page.
+  3. First thing in the web page is to show offers or some information in the form of images.
+       a. Use the Images given in the project file and create a simple animation to show them one after the other infinite times. 
+          Apply a border of 2px solid steelblue.
+  4. Next, In the same page after animation create two sample sections of the products as Covid Care and Diabetes Care.
+  5. Under Each of them display products with product name, image, Price and Price after Offer and a Add to Cart option. When clicked on the button, the background color should change to rgb(250, 234, 230) and the border should change to rgb(0, 255, 76). When hovered on each product, slightly increase the width and height of it. 
