@@ -26,7 +26,9 @@ A Pharmacy shop who has millions of customers are in need of creating a website 
     
         i.	Full Name       Ii. Patient Id if exists     iii. Contact Number          iv.	Email Id 
     
-    b. Address    -  i.	House Number     ii.	Street       iii.	Area       iv.	District (List. Make Sure first option is “Choose”) 
+    b. Address    -  
+    
+        i.	House Number     ii.	Street       iii.	Area       iv.	District (List. Make Sure first option is “Choose”) 
     
     c. Choose the Test Type. Show a message (Check atleast one box without fail) 
     
@@ -34,9 +36,13 @@ A Pharmacy shop who has millions of customers are in need of creating a website 
         
         iv.	Thyroid Stimulating Hormone(TSH)              v.	Glucose Test 
         
-     d. Do you want a hard copy of the report also?      i.	Yes              ii.	No 
+     d. Do you want a hard copy of the report also?      
      
-     e. Select Your Comfortable Date and Time      i.	Date               ii.	Time 
+        i.	Yes              ii.	No 
+     
+     e. Select Your Comfortable Date and Time      
+       
+        i.	Date               ii.	Time 
      
      f. Reset and Submit button
      
