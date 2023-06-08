@@ -6,10 +6,14 @@ A Pharmacy shop who has millions of customers are in need of creating a website 
 2.	Create a Horizontal Navigation Bar after Header with required tags to link. When hovering on any of the links, make sure the background color changes accordingly. The tag names are as Follows.
 
       a. Home 
+      
       b. Our Medicines - When Hovered on this, show a dropdown list of links for Fever, Muscle Pains, (Cold & Cough) 
-  c.	 Health Care - When Hovered on this, show a dropdown list of links for Baby Care, Skin Care, Home Care, Personal Care and Pet Care 
-  d.	Lab Test - When Clicked on Lab Test, Open a form to book the slot. 
-  e.	When the web page is scrolled, make sure that the navigation bar is still seen on the top of the web page.
+      
+      c. Health Care - When Hovered on this, show a dropdown list of links for Baby Care, Skin Care, Home Care, Personal Care and Pet Care 
+      
+      d.	Lab Test - When Clicked on Lab Test, Open a form to book the slot. 
+  
+      e.	When the web page is scrolled, make sure that the navigation bar is still seen on the top of the web page.
 
 3.	First thing in the web page is to show offers or some information in the form of images.
     a.	Use the Images given in the project file and create a simple animation to show them one after the other infinite times. Apply a border of 2px solid steelblue.
