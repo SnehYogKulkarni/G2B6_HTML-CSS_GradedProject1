@@ -22,13 +22,8 @@ A Pharmacy shop who has millions of customers are in need of creating a website 
 5.	Under Each of them display products with product name, image, Price and Price after Offer and a Add to Cart option. When clicked on the button, the background color should change to rgb(250, 234, 230) and the border should change to rgb(0, 255, 76). When hovered on each product, slightly increase the width and height of it.
 6.  When clicked on Lab Test in the Navigation bar, a form shall open with validation in a new page with following details. 
     a. Form shall have Patient Contact Details as follows.  
-        i.	Full Name , 
+        i.	Full Name       Ii. Patient Id if exists     iii. Contact Number          iv.	Email Id 
         
-        ii.	Patient Id if exists   
-        
-        iii.	Contact Number 
-        
-        iv.	Email Id 
   b.	Address 
         i.	House Number 
         ii.	Street 
