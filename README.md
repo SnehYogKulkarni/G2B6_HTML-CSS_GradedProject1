@@ -28,7 +28,9 @@ A Pharmacy shop who has millions of customers are in need of creating a website 
     
     b. Address    -  
     
-        i.	House Number     ii.	Street       iii.	Area       iv.	District (List. Make Sure first option is “Choose”) 
+        i.	House Number     ii.	Street       
+        
+        iii.	Area       iv.	District (List. Make Sure first option is “Choose”) 
     
     c. Choose the Test Type. Show a message (Check atleast one box without fail) 
     
