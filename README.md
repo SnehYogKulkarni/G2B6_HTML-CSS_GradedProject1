@@ -16,15 +16,18 @@ A Pharmacy shop who has millions of customers are in need of creating a website 
       e.	When the web page is scrolled, make sure that the navigation bar is still seen on the top of the web page.
 
 3.	First thing in the web page is to show offers or some information in the form of images.
-    a.	Use the Images given in the project file and create a simple animation to show them one after the other infinite times. Apply a border of 2px solid steelblue.
+      a.	Use the Images given in the project file and create a simple animation to show them one after the other infinite times. Apply a border of 2px solid steelblue.
     
 4.	Next, In the same page after animation create two sample sections of the products as Covid Care and Diabetes Care.
 5.	Under Each of them display products with product name, image, Price and Price after Offer and a Add to Cart option. When clicked on the button, the background color should change to rgb(250, 234, 230) and the border should change to rgb(0, 255, 76). When hovered on each product, slightly increase the width and height of it.
-6.	When clicked on Lab Test in the Navigation bar, a form shall open with validation in a new page with following details. 
-  a.	Form shall have Patient Contact Details as follows.
-        i.	Full Name 
-        ii.	Patient Id if exists 
+6.  When clicked on Lab Test in the Navigation bar, a form shall open with validation in a new page with following details. 
+    a. Form shall have Patient Contact Details as follows.  
+        i.	Full Name , 
+        
+        ii.	Patient Id if exists   
+        
         iii.	Contact Number 
+        
         iv.	Email Id 
   b.	Address 
         i.	House Number 
