@@ -5,6 +5,7 @@ A Pharmacy shop who has millions of customers are in need of creating a website 
 The requirements of Homepage are as follows.
   1. Create a Header (“Pharmacy”) and Footer(“@copyright. Only for demonstration purposes”). Make Sure you align them to the center of the screen.
   2. Create a Horizontal Navigation Bar after Header with required tags to link. When hovering on any of the links, make sure the background color changes accordingly. The tag names are as Follows.
+  
       a. Home
       b. Our Medicines
           i. When Hovered on this, show a dropdown list of links for Fever, Muscle Pains, (Cold & Cough)
