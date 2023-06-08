@@ -7,14 +7,10 @@ The requirements of Homepage are as follows.
   2. Create a Horizontal Navigation Bar after Header with required tags to link. When hovering on any of the links, make sure the background color changes accordingly. The tag names are as Follows.
   
       a. Home
-      b. Our Medicines
-         i. When Hovered on this, show a dropdown list of links for Fever, Muscle Pains, (Cold & Cough)
+      b. Our Medicines  -  When Hovered on this, show a dropdown list of links for Fever, Muscle Pains, (Cold & Cough)
           
-      c. Health Care
-         i. When Hovered on this, show a dropdown list of links for Baby Care, Skin Care, Home Care, Personal Care and Pet Care
-          
-      d. Lab Test
-         i. When Clicked on Lab Test, Open a form to book the slot.
+      c. Health Care    -  When Hovered on this, show a dropdown list of links for Baby Care, Skin Care, Home Care, Personal Care and Pet Care
+      d. Lab Test       -  When Clicked on Lab Test, Open a form to book the slot.
       e. When the web page is scrolled, make sure that the navigation bar is still seen on the top of the web page.
       
   3. First thing in the web page is to show offers or some information in the form of images.
