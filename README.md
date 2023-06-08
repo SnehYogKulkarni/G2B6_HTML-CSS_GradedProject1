@@ -8,13 +8,12 @@ The requirements of Homepage are as follows.
   
       a. Home
       b. Our Medicines
-      
           i. When Hovered on this, show a dropdown list of links for Fever, Muscle Pains, (Cold & Cough)
+          
       c. Health Care
-      
           i. When Hovered on this, show a dropdown list of links for Baby Care, Skin Care, Home Care, Personal Care and Pet Care
+          
       d. Lab Test
-      
           i. When Clicked on Lab Test, Open a form to book the slot.
       e. When the web page is scrolled, make sure that the navigation bar is still seen on the top of the web page.
       
