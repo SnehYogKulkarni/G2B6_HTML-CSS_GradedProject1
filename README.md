@@ -34,9 +34,9 @@ A Pharmacy shop who has millions of customers are in need of creating a website 
         
         iv.	Thyroid Stimulating Hormone(TSH)              v.	Glucose Test 
         
-     d. Do you want a hard copy of the report also?             i.	Yes              ii.	No 
+     d. Do you want a hard copy of the report also?      i.	Yes              ii.	No 
      
-     e. Select Your Comfortable Date and Time              i.	Date               ii.	Time 
+     e. Select Your Comfortable Date and Time      i.	Date               ii.	Time 
      
      f. Reset and Submit button
      
